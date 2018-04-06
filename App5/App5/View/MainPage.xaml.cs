@@ -14,7 +14,7 @@ namespace App5
             InitializeComponent();
             Login viewmodel = new Login();
             BindingContext = viewmodel;
-            ((Login)this.BindingContext).name = usernameEntry.Text;
+           
                 
             viewmodel._navigation = this.Navigation;
         }
