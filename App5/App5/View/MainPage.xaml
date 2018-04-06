@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App5"
+             x:Class="App5.MainPage"
+             BackgroundImage="bgblue.jpg">
+   
+    <ContentPage.ToolbarItems>
+        <ToolbarItem  />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+
+        
+            <StackLayout Orientation="Vertical" Padding="20" Spacing="30">
+
+            <Image HorizontalOptions="CenterAndExpand" WidthRequest="200"  Source="https://d1ic4altzx8ueg.cloudfront.net/finder-au/wp-uploads/2015/12/telstralogo1.png"/>
+            <BoxView HeightRequest="10"/>
+            <Frame BackgroundColor="Transparent" HasShadow="False">
+                <StackLayout Orientation="Vertical" Spacing="10" Padding="10">
+
+                    <Entry x:Name="usernameEntry" Placeholder="username"  PlaceholderColor="White" HeightRequest="40"   
+                           Keyboard="Email"  
+                           TextColor="White" />
+                   
+                        <Entry x:Name="passwordEntry" Placeholder="password" PlaceholderColor="White" HeightRequest="40"   
+                           IsPassword="True"  
+                           TextColor="White" />
+                 
+                </StackLayout>
+                </Frame>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand">
+
+                        <Button Text="Login"  TextColor="White"  
+                    FontAttributes="Bold" FontSize="Large" HorizontalOptions="FillAndExpand"  
+                    BackgroundColor="#088da5" Command="{Binding LoadItemsCommand}" />
+
+
+
+                        <Button Text="Cancel" TextColor="White"  
+                    FontAttributes="Bold" FontSize="Large" HorizontalOptions="FillAndExpand"  
+                    BackgroundColor="#088da5" Clicked="Handle_Clear_Clicked"/>
+            </StackLayout>
+            <Button FontSize="Large" HorizontalOptions="CenterAndExpand" Text="Forgot Password?" TextColor="Aqua" BackgroundColor="Transparent"  Command="{Binding LoadItemsCommand}" />
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

@@ -1,0 +1,16 @@
+c:\Users\mo388770\source\repos\App5\App5\App5\bin\Debug\netstandard2.0\App5.deps.json
+c:\Users\mo388770\source\repos\App5\App5\App5\bin\Debug\netstandard2.0\App5.dll
+c:\Users\mo388770\source\repos\App5\App5\App5\bin\Debug\netstandard2.0\App5.pdb
+c:\Users\mo388770\source\repos\App5\App5\App5\bin\Debug\netstandard2.0\Mono.Android.dll
+c:\Users\mo388770\source\repos\App5\App5\App5\bin\Debug\netstandard2.0\Mono.Android.pdb
+c:\Users\mo388770\source\repos\App5\App5\App5\bin\Debug\netstandard2.0\Mono.Android.xml
+c:\Users\mo388770\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.csprojResolveAssemblyReference.cache
+c:\Users\mo388770\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.csproj.CoreCompileInputs.cache
+c:\Users\mo388770\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.App.xaml.g.cs
+c:\Users\mo388770\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.View.MainPage.xaml.g.cs
+c:\Users\mo388770\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.View.Page1.xaml.g.cs
+c:\Users\mo388770\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfoInputs.cache
+c:\Users\mo388770\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfo.cs
+c:\Users\mo388770\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.csproj.CopyComplete
+c:\Users\mo388770\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.dll
+c:\Users\mo388770\source\repos\App5\App5\App5\obj\Debug\netstandard2.0\App5.pdb
